@@ -84,7 +84,7 @@ function Navbar() {
         </div>
       </div>
 
-      <div className="tablet:flex tablet:flex-col tablet:items-end tablet:absolute tablet:right-12">
+      <div className="tablet:flex tablet:flex-col tablet:items-end tablet:absolute tablet:right-12 phone:absolute phone:top-12 phone:right-12 phone:flex phone:flex-col phone:items-end">
         <button
           onClick={() => setIsMenuOpen(!isMenuOpen)}
           className="block laptop:hidden text-white bg-cyan-800 px-2 py-1 rounded-md ml-2"
@@ -92,9 +92,9 @@ function Navbar() {
           ☰
         </button>
         <div
-          className={`flex flex-col gap-2 mt-2  laptop:flex-row laptop:items-center ${
+          className={`flex flex-col gap-2 laptop:flex-row laptop:items-center ${
             isMenuOpen
-              ? "block tablet:bg-[rgb(135,192,220)] tablet:opacity-100 tablet:z-10 tablet:p-2 tablet:rounded-xl"
+              ? "block phone:bg-[rgb(135,192,220)] phone:opacity-100 phone:z-10 phone:p-2 phone:rounded-xl"
               : "hidden laptop:flex"
           }`}
         >
