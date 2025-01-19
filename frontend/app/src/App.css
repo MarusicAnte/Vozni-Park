@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  background-color: #dceef7;
+  display: flex;
+  width: 100%;
+  flex: 1;
+  flex-direction: column;
+}
+
+body {
+  display: flex;
+  flex: 1;
+  width: 100%;
+}
