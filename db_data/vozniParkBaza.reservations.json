@@ -1,0 +1,356 @@
+[{
+  "_id": {
+    "$oid": "6777e96f655e776b2a667caf"
+  },
+  "purpose": "Test",
+  "period": {
+    "start": {
+      "$date": "2025-01-16T14:30:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-16T14:30:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a1bac6dd1b63d9e4f7a"
+  },
+  "status": "Završeno",
+  "user": {
+    "$oid": "6776da5022ff1065ddc78d2c"
+  },
+  "vehicle": null,
+  "reasonForRejection": "Vozila će biti na servisu u tom razdoblju.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6783b2a326cb4a96d0c95491"
+  },
+  "purpose": "Put u Zagreb",
+  "period": {
+    "start": {
+      "$date": "2025-01-12T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-15T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Završeno",
+  "user": {
+    "$oid": "6776da5022ff1065ddc78d2c"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6783d3081e8570ca36cafa75"
+  },
+  "purpose": "Put u Šibenik",
+  "period": {
+    "start": {
+      "$date": "2025-01-21T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-21T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Odbijeno",
+  "user": {
+    "$oid": "6776da5022ff1065ddc78d2c"
+  },
+  "vehicle": null,
+  "reasonForRejection": "Nema auta.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6785988f99f2b925c1377118"
+  },
+  "purpose": "test 123",
+  "period": {
+    "start": {
+      "$date": "2025-01-26T00:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-26T00:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Odobreno",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712ca9db9177a0ad73b694"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67867f0a57c858b1788bd477"
+  },
+  "purpose": "Test 1",
+  "period": {
+    "start": {
+      "$date": "2025-01-19T00:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-19T00:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Završeno",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678692dc6e3e95d346a40f63"
+  },
+  "purpose": "Poslovni put u Rijeku",
+  "period": {
+    "start": {
+      "$date": "2025-01-15T00:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-17T00:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Završeno",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": null,
+  "reasonForRejection": "Razlog",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786e4489c296405384dfa6e"
+  },
+  "purpose": "Put u Split",
+  "period": {
+    "start": {
+      "$date": "2025-01-17T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-17T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a0bac6dd1b63d9e4f76"
+  },
+  "status": "Završeno",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712a9cdb9177a0ad73b680"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a5950e6e9ecf980418429"
+  },
+  "purpose": "Svrha",
+  "period": {
+    "start": {
+      "$date": "2025-01-17T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-18T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a0bac6dd1b63d9e4f76"
+  },
+  "status": "Završeno",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712b05db9177a0ad73b684"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678a5a72e6e9ecf980418444"
+  },
+  "purpose": "Test 2",
+  "period": {
+    "start": {
+      "$date": "2025-01-19T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-19T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Odbijeno",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": null,
+  "reasonForRejection": "Nemate pravo na vozilo.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d2225108167d10ce0d2d9"
+  },
+  "purpose": "Put u Split",
+  "period": {
+    "start": {
+      "$date": "2025-01-19T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-19T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a0bac6dd1b63d9e4f76"
+  },
+  "status": "Odobreno",
+  "user": {
+    "$oid": "6776da5022ff1065ddc78d2c"
+  },
+  "vehicle": {
+    "$oid": "67712a9cdb9177a0ad73b680"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d2694f7a65dad4c41087d"
+  },
+  "purpose": "Test Svrha 2",
+  "period": {
+    "start": {
+      "$date": "2025-01-22T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-22T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Na čekanju",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d26aef7a65dad4c410889"
+  },
+  "purpose": "Test 3",
+  "period": {
+    "start": {
+      "$date": "2025-01-28T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-29T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Na čekanju",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d29abc3b26899be23aa4f"
+  },
+  "purpose": "test 123",
+  "period": {
+    "start": {
+      "$date": "2025-01-26T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-26T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Na čekanju",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d2b6bc3b26899be23ab4e"
+  },
+  "purpose": "asdasasd",
+  "period": {
+    "start": {
+      "$date": "2025-01-30T23:00:00.000Z"
+    },
+    "end": {
+      "$date": "2025-01-30T23:00:00.000Z"
+    }
+  },
+  "vehicleCategory": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "status": "Na čekanju",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "reasonForRejection": null,
+  "__v": 0
+}]

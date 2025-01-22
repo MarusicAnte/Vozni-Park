@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "67712a0bac6dd1b63d9e4f76"
+  },
+  "name": "Malo auto",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712a15ac6dd1b63d9e4f78"
+  },
+  "name": "Veliko auto",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67712a1bac6dd1b63d9e4f7a"
+  },
+  "name": "Kombi",
+  "__v": 0
+}]

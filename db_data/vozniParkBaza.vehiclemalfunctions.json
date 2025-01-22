@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "678d595386459f4b187d02c7"
+  },
+  "vehicle": {
+    "$oid": "67712bfbdb9177a0ad73b68c"
+  },
+  "description": "Ne radi volan.",
+  "user": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "createdAt": {
+    "$date": "2025-01-19T19:58:11.926Z"
+  },
+  "__v": 0
+}]

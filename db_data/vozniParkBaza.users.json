@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "677180432362cd0848c1d289"
+  },
+  "imageURL": "https://xsgames.co/randomusers/assets/avatars/male/45.jpg",
+  "fullName": "Pero Perić",
+  "username": "pperic00",
+  "email": "pero.peric@zupanija.hr",
+  "password": "$2b$10$TeIToEmtWpyOplMF0OEbZeUUmkz8o9Nqqq1VzdrD61ziniSi9/FOy",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677199826ce5a96b2f3926f3"
+  },
+  "imageURL": "https://xsgames.co/randomusers/assets/avatars/male/2.jpg",
+  "fullName": "Ivan Ivić",
+  "username": "iivic00",
+  "email": "ivan.ivic@zupanija.hr",
+  "password": "$2b$10$qvN5wXSWLlg/Ja46TON6c.up6/o6Clx0hYqVEp8Z6pzuDENBxnEca",
+  "role": "zaposlenik",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776da5022ff1065ddc78d2c"
+  },
+  "imageURL": "https://xsgames.co/randomusers/assets/avatars/female/23.jpg",
+  "fullName": "Marija Marijić",
+  "username": "mmarijic01",
+  "email": "marija.marijic@zupanija.hr",
+  "password": "$2b$10$KgZiWzrdtQHZXPA0MbSHx.TPGj6hSzaelWMUFO9DsKaqf.y71MMza",
+  "role": "zaposlenik",
+  "__v": 0
+}]
